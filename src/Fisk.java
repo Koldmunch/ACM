@@ -9,7 +9,7 @@ public class Fisk {
 	
 	
 	String first_name;
-	System.out.print("Enter your first name: ");
+	System.out.print("Enter your MOMS name: ");
 	first_name = user_input.next( );
 	
 	String family_name;
